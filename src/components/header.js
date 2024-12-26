@@ -23,12 +23,6 @@ const Header = () => (
         >
           Cart
         </Link>
-        <Link
-          to="/checkout"
-          className="text-white font-medium hover:text-gray-200 transition duration-300"
-        >
-          Checkout
-        </Link>
       </div>
     </nav>
   </header>
